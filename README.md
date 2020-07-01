@@ -1,4 +1,4 @@
-# github-explore
+# Github-explore
 
 ##Foi criado uma aplicação web  para procurar repositórios no Github e mostrar.
 
