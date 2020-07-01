@@ -1,6 +1,6 @@
 # Github-explore
 
-##Foi criado uma aplicação web  para procurar repositórios no Github e mostrar.
+## Foi criado uma aplicação web  para procurar repositórios no Github e mostrar.
 
 Este projeto utiliza:  React / TypeScript / API - github
 
